@@ -1,0 +1,29 @@
+header {
+    position: relative;
+    width: 100%;
+    padding: 500px 15px 70px;
+    text-align: center;
+    background-image: url('../images/header.jpg');
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+header .intro {
+    position: relative;
+    bottom: 330px;
+    width: 100%;
+    font-size: 20px;
+}
+
+.jumbotron {
+  background-color: white !important;
+}
+
+.button-color {
+  background-color: #4CAF50 !important; /* Green */
+}
+
+#name {
+  font-family: cursive;
+}
