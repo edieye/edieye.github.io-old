@@ -1,4 +1,4 @@
- header {
+ /* header {
     position: relative;
     width: 100%;
     padding: 500px 15px 70px;
@@ -24,11 +24,11 @@
   background-color: #4CAF50 !important; /* Green */
 }
 
-/* #name {
+/* .name {
   font-family: cursive;
-} */
+}  */
 
-/* header {
+header {
     position: relative;
     width: 100%;
     padding: 500px 15px 70px;
@@ -54,6 +54,6 @@ header .intro {
   background-color: #4CAF50 !important; /* Green */
 }
 
-/* #name {
+ #name {
   font-family: cursive;
-} */
+}
