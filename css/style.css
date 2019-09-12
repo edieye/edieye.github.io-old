@@ -1,4 +1,4 @@
- body {
+ header {
     position: relative;
     width: 100%;
     padding: 500px 15px 70px;
@@ -9,7 +9,7 @@
     background-size: cover;
 }
 
- body .intro {
+ header .intro {
     position: relative;
     bottom: 330px;
     width: 100%;
