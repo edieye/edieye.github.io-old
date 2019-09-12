@@ -1,15 +1,14 @@
-header {
+ body {
     position: relative;
     width: 100%;
     padding: 500px 15px 70px;
     text-align: center;
     background-image: url('../images/header.jpg');
-    background-repeat:no-repeat;
     background-position: center;
     background-size: cover;
 }
 
-header .intro {
+ body .intro {
     position: relative;
     bottom: 330px;
     width: 100%;
@@ -24,6 +23,6 @@ header .intro {
   background-color: #4CAF50 !important; /* Green */
 }
 
-#name {
+.name {
   font-family: cursive;
 }
