@@ -20,5 +20,5 @@ function hide() {
   }
 }
 
-// sets interval for how often smile rotates
+// set interval for how often smile rotates
 setInterval(rotatebox,10);
